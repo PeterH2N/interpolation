@@ -1,0 +1,29 @@
+﻿  interpolation.cpp
+c:\users\phhni\source\repos\interpolation gui\interpolation gui\include\graphics.h(13): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\phhni\source\repos\interpolation gui\interpolation gui\include\graphics.h(14): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\phhni\source\repos\interpolation gui\interpolation gui\src\interpolation.cpp(23): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  main.cpp
+c:\users\phhni\source\repos\interpolation gui\interpolation gui\include\graphics.h(13): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\phhni\source\repos\interpolation gui\interpolation gui\include\graphics.h(14): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Interpolation GUI.vcxproj -> C:\Users\phhni\source\repos\Interpolation GUI\Debug\Interpolation GUI.exe
